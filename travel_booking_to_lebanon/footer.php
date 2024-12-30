@@ -17,7 +17,7 @@
         </div>
 
         <div class="box">
-            <h3>cintact info</h3>
+            <h3>contact info</h3>
             <a href="#"> <i class="fas fa-phone"></i>+123-456-7890</a>
             <a href="#"> <i class="fas fa-phone"></i>+111-222-3333</a>
             <a href="#"> <i class="fas fa-envelope"></i>42030204@gmail.com</a>
