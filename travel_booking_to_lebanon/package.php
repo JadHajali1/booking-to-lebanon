@@ -24,7 +24,7 @@
                 <img src="images/pic1.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -35,7 +35,7 @@
                 <img src="images/pic2.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -46,7 +46,7 @@
                 <img src="images/pic3.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -57,7 +57,7 @@
                 <img src="images/pic4.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -79,7 +79,7 @@
                 <img src="images/pic6.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -90,7 +90,7 @@
                 <img src="images/pic7.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -101,7 +101,7 @@
                 <img src="images/pic8.png" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -112,7 +112,7 @@
                 <img src="images/pic9.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -123,7 +123,7 @@
                 <img src="images/pic10.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -134,7 +134,7 @@
                 <img src="images/pic11.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -145,7 +145,7 @@
                 <img src="images/pic12.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -156,7 +156,7 @@
                 <img src="images/pic13.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -167,7 +167,7 @@
                 <img src="images/pic14.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
@@ -178,7 +178,7 @@
                 <img src="images/pic15.jpg" alt="">
             </div>
             <div class="content">
-                <h3>adventure % tour</h3>
+                <h3>adventure & tour</h3>
                 <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde, explicabo.</p>
                 <a href="book.php" class="btn">book now</a>
             </div>
