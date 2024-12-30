@@ -81,7 +81,7 @@
                     <i class="fas fa-star"></i>
                 </div>
                 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id temporibus, quaerat dicta facilis amet corporis doloribus aliquam, explicabo commodi excepturi fugit deleniti molestiae tempore nihil debitis assumenda ducimus, maxime deserunt.</p>
-                <h3>sarah mohammed</h3>
+                <h3>malak mohammed</h3>
                 <span>traveler</span>
                 <img src="images/hu3.jpg" alt="">
             </div>
